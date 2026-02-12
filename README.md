@@ -1,15 +1,18 @@
 # Data_Engineering-Roadmap
 Goal: Transition from Senior Data Analyst to AI-Enabled Analytics/Data Engineer within 90 Days
+
 Week 1: Advanced SQL & Data Modeling
 •	Star schema (Fact & Dimension tables)
 •	Window functions & CTEs
 •	KPI logic & query optimization
 •	Output: SQL views + schema design
+
 Week 2: Python for Data Engineering
 •	Pandas ETL workflows
 •	Functions & modular coding
 •	Data cleaning & transformations
 •	Output: Python ETL notebook
+
 Week 3: Azure Data Engineering Foundations
 •	Azure Blob Storage
 •	Azure SQL Database
