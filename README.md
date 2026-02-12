@@ -18,6 +18,7 @@ Week 3: Azure Data Engineering Foundations
 •	Azure SQL Database
 •	Azure Data Factory pipelines
 •	Output: Automated pipeline + architecture diagram
+
 Week 4: Project 1 – Analytics Engineering Project
 •	Retail/Supply Chain use case
 •	SQL transformations (ELT approach)
